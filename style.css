@@ -1,0 +1,43 @@
+#start-btn
+{
+    width: 40%;
+} 
+#camera,#result
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+
+body{
+    background-image: linear-gradient(red, rgb(21, 255, 0), rgba(0, 0, 0, 0));
+}
+#camera,#image1,#image2
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+    
+}
+#image3{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+    margin-left: 20px;
+}
+
+#image2{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+    margin-left: 20px;
+}
